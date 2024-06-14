@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: f6eecd6c-d7a3-42f5-a6ad-13b559a2dc6c
+      url: 'https://sophiezla.quarto.pub/a-new-website'
