@@ -1,5 +1,7 @@
 ---
 title: "About"
 ---
+## About Me
+My name is **Sophie Zhu** and I am a student from *Warner*.
 
-Sophie Zhu
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
